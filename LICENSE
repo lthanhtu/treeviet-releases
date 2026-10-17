@@ -10,9 +10,11 @@ Copyright (c) 2026 TreeViet. All rights reserved.
    licensed, not sold.
 
 2. LICENSE GRANT
-   Subject to this Agreement, the Publisher grants you a personal, non-exclusive,
+   Subject to this Agreement, the Publisher grants you a non-exclusive,
    non-transferable, revocable license to download, install and use the
-   official binary releases of the Software on devices you own or control.
+   official binary releases of the Software on devices you own or control,
+   for personal or commercial purposes (including work for an employer or
+   clients).
 
 3. RESTRICTIONS
    Unless the Publisher gives prior written permission, you may NOT:
@@ -34,14 +36,18 @@ Copyright (c) 2026 TreeViet. All rights reserved.
 
 5. LICENSE KEYS, PURCHASES AND SUPPORT
    a) Some features (for example private repositories) require a license key
-      issued by the Publisher. A key is bound to the purchaser's email address and
-      is valid until the expiry date stated when it is issued.
+      issued by the Publisher. A key is bound to the email address of the
+      person who uses it and is valid until the expiry date stated when it is
+      issued.
    b) A purchase only grants a license key and the stated period of use. All
       purchases are final and NON-REFUNDABLE.
-   c) Keys are personal: they may not be shared, resold or published.
+   c) Each key is for one person: it may not be shared, resold or published.
    d) Support covers application bugs and problems with a valid key (for
       example a key that cannot be activated). The Publisher will fix or replace a
       faulty key for the remaining period.
+   e) Individuals and organizations (for example companies) may buy keys. An
+      organization may buy keys for its members; each key is bound to one
+      person's email and may be used by that person only.
 
 6. PRIVACY
    The Software does not collect or transmit personal data to the Publisher
@@ -66,7 +72,7 @@ Copyright (c) 2026 TreeViet. All rights reserved.
 
 10. LIMITATION OF LIABILITY
    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
-   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOSS OF DATA OR
+   PUBLISHER BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOSS OF DATA OR
    REPOSITORY CONTENTS) OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY
    TO USE THE SOFTWARE. Nothing in this Agreement limits rights you have under
    mandatory consumer-protection law.
@@ -91,9 +97,10 @@ Bản quyền (c) 2026 TreeViet. Bảo lưu mọi quyền.
    ("Nhà phát hành") và được bảo hộ bởi luật sở hữu trí tuệ Việt Nam và điều ước quốc tế.
    Phần mềm được cấp phép sử dụng, không phải được bán.
 
-2. CẤP PHÉP: Bạn được quyền cá nhân, không độc quyền, không chuyển nhượng, có
-   thể bị thu hồi, để tải, cài đặt và sử dụng bản phát hành chính thức của
-   Phần mềm trên thiết bị của bạn.
+2. CẤP PHÉP: Bạn được quyền không độc quyền, không chuyển nhượng, có thể bị
+   thu hồi, để tải, cài đặt và sử dụng bản phát hành chính thức của Phần mềm
+   trên thiết bị của bạn, cho mục đích cá nhân hoặc thương mại (kể cả dùng
+   trong công việc cho công ty hay khách hàng).
 
 3. HẠN CHẾ: Nếu không có sự đồng ý bằng văn bản của Nhà phát hành, bạn KHÔNG được:
    a) sao chép, chỉnh sửa, dịch hoặc tạo sản phẩm phái sinh từ Phần mềm, mã
@@ -108,14 +115,17 @@ Bản quyền (c) 2026 TreeViet. Bảo lưu mọi quyền.
    f) dùng tên "TreeViet" hoặc logo cho sản phẩm, dịch vụ khác.
 
 4. KEY BẢN QUYỀN, MUA KEY VÀ HỖ TRỢ:
-   a) Một số tính năng (ví dụ repository riêng tư) cần key bản quyền do Tác
-      giả cấp. Key gắn với email người mua và có hiệu lực đến ngày hết hạn ghi
-      khi cấp key.
+   a) Một số tính năng (ví dụ repository riêng tư) cần key bản quyền do Nhà
+      phát hành cấp. Key gắn với email của người sử dụng key và có hiệu lực
+      đến ngày hết hạn ghi khi cấp key.
    b) Việc mua chỉ bao gồm key bản quyền và thời hạn sử dụng ghi trên key. Đã
       mua thì KHÔNG HOÀN TIỀN.
-   c) Key dùng cho cá nhân người mua, không được chia sẻ, bán lại hay công bố.
+   c) Mỗi key dành cho một người, không được chia sẻ, bán lại hay công bố.
    d) Hỗ trợ bao gồm lỗi ứng dụng và lỗi key hợp lệ (ví dụ key không kích hoạt
       được). Nhà phát hành sẽ sửa lỗi hoặc cấp lại key cho thời hạn còn lại.
+   e) Cá nhân và tổ chức (ví dụ công ty) đều được mua key. Tổ chức có thể mua
+      key cho thành viên của mình; mỗi key gắn với email của một người và chỉ
+      người đó được sử dụng.
 
 5. QUYỀN RIÊNG TƯ: Phần mềm không thu thập hay gửi dữ liệu cá nhân của bạn cho
    Nhà phát hành (không telemetry, không thống kê, không theo dõi). Xem PRIVACY.md.

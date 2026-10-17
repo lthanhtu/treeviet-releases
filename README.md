@@ -14,7 +14,7 @@
 | **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64.deb](../../releases/latest/download/TreeViet-Linux-x64.deb) |
 
 ### Cài đặt / Install
-- **macOS**: mở `.dmg`, kéo TreeViet vào *Applications*. Nếu macOS báo "không xác minh được nhà phát triển": chuột phải vào app → **Open** → **Open** (hoặc `xattr -dr com.apple.quarantine /Applications/TreeViet.app`).
+- **macOS**: mở `.dmg`, kéo TreeViet vào *Applications* rồi mở app. Lần đầu macOS báo "Apple không thể xác minh TreeViet…" (do app chưa đăng ký với Apple, không phải mã độc): bấm **Done**, vào **System Settings → Privacy & Security**, kéo xuống bấm **Open Anyway** → **Open** (chỉ cần một lần; macOS 14 trở về trước: chuột phải vào app → **Open**). Hoặc chạy `xattr -dr com.apple.quarantine /Applications/TreeViet.app`.
 - **Windows**: chạy `setup.exe`. Nếu SmartScreen hiện "Windows protected your PC": **More info** → **Run anyway**. Cần WebView2 (có sẵn trên Windows 10/11 mới).
 - **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
@@ -55,16 +55,17 @@ Try every Pro feature (including private repositories) **until 31 Dec 2026**: op
 ## 🔑 Bản miễn phí & Pro / Free & Pro
 
 - **Miễn phí**: dùng với repository công khai (public) và repository cục bộ.
-- **Pro**: mở thêm repository riêng tư (private). Cần đăng nhập bằng email và **key bản quyền** do tác giả cấp; key gắn với email và có thời hạn sử dụng.
+- **Pro**: mở thêm repository riêng tư (private). Cần đăng nhập bằng email và **key bản quyền** do TreeViet cấp; key gắn với email và có thời hạn sử dụng.
+- Được dùng cho cá nhân và cho công việc / mục đích thương mại. Công ty có thể mua key cho nhân viên — mỗi người một key gắn với email của người đó.
 - Mua key / hỗ trợ: **gittreeviet@gmail.com**
 
 ### Chính sách mua key / Purchase policy
 - Mua key chỉ bao gồm **key bản quyền và thời hạn sử dụng** ghi trên key.
 - **Đã mua thì không hoàn tiền**.
-- Key dùng cho cá nhân người mua, không chia sẻ hay bán lại.
-- **Hỗ trợ**: lỗi ứng dụng và lỗi key (ví dụ không kích hoạt được) — tác giả sẽ sửa lỗi hoặc cấp lại key cho thời hạn còn lại.
+- Mỗi key dành cho một người, không chia sẻ hay bán lại.
+- **Hỗ trợ**: lỗi ứng dụng và lỗi key (ví dụ không kích hoạt được) — TreeViet sẽ sửa lỗi hoặc cấp lại key cho thời hạn còn lại.
 
-A purchase grants a license key and its period of use only. **All sales are final — no refunds**. Support covers app bugs and faulty keys.
+Personal and commercial use are both allowed; companies may buy keys for their staff (one key per person, bound to that person's email). A purchase grants a license key and its period of use only. **All sales are final — no refunds**. Support covers app bugs and faulty keys.
 
 ## 🔒 Quyền riêng tư / Privacy
 
