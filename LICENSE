@@ -1,0 +1,129 @@
+GitTreeViet — Proprietary Software License (End-User License Agreement)
+
+Copyright (c) 2026 GitTreeViet. All rights reserved.
+
+1. OWNERSHIP
+   GitTreeViet, including its source code, object code, user interface, visual
+   design, icons, logo, name and documentation (the "Software"), is owned by
+   GitTreeViet ("the Publisher") and is protected by copyright and other intellectual
+   property laws of Vietnam and international treaties. The Software is
+   licensed, not sold.
+
+2. LICENSE GRANT
+   Subject to this Agreement, the Publisher grants you a personal, non-exclusive,
+   non-transferable, revocable license to download, install and use the
+   official binary releases of the Software on devices you own or control.
+
+3. RESTRICTIONS
+   Unless the Publisher gives prior written permission, you may NOT:
+   a) copy, modify, translate or create derivative works of the Software, its
+      source code, user interface, visual design, icons or logo;
+   b) decompile, disassemble or reverse engineer the Software, except to the
+      extent applicable law expressly permits it despite this limitation;
+   c) redistribute, sell, rent, lease, sublicense, publish or host the
+      Software, or bundle it with other products;
+   d) use the Software, its source code, design or assets to build, train or
+      market a competing or substantially similar product;
+   e) remove or alter any copyright, trademark or proprietary notices;
+   f) use the name "GitTreeViet" or its logo for any other product or service.
+
+4. SOURCE CODE
+   Access to the source code (if granted) does not grant any right to use,
+   copy, modify or distribute it. Viewing the source code is permitted only
+   to the extent the Publisher explicitly allows.
+
+5. LICENSE KEYS, PURCHASES AND SUPPORT
+   a) Some features (for example private repositories) require a license key
+      issued by the Publisher. A key is bound to the purchaser's email address and
+      is valid until the expiry date stated when it is issued.
+   b) A purchase only grants a license key and the stated period of use. All
+      purchases are final and NON-REFUNDABLE.
+   c) Keys are personal: they may not be shared, resold or published.
+   d) Support covers application bugs and problems with a valid key (for
+      example a key that cannot be activated). The Publisher will fix or replace a
+      faulty key for the remaining period.
+
+6. PRIVACY
+   The Software does not collect or transmit personal data to the Publisher
+   (no telemetry, analytics or tracking). See PRIVACY.md.
+
+7. THIRD-PARTY COMPONENTS
+   The Software includes open-source components (e.g. Tauri, React, gitoxide,
+   CodeMirror, Inter and JetBrains Mono fonts) that remain under their own
+   licenses. This Agreement does not restrict your rights under those licenses
+   for those components.
+
+8. NO WARRANTY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+   "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+   LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOSS OF DATA OR
+   REPOSITORY CONTENTS) OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY
+   TO USE THE SOFTWARE. Nothing in this Agreement limits rights you have under
+   mandatory consumer-protection law.
+
+10. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must stop using and delete all copies of the Software.
+
+11. GOVERNING LAW
+   This Agreement is governed by the laws of the Socialist Republic of Vietnam.
+
+Contact: gittreeviet@gmail.com
+
+-------------------------------------------------------------------------------
+
+GitTreeViet — Giấy phép phần mềm độc quyền (Thoả thuận người dùng cuối)
+
+Bản quyền (c) 2026 GitTreeViet. Bảo lưu mọi quyền.
+
+1. QUYỀN SỞ HỮU: GitTreeViet, gồm mã nguồn, mã máy, giao diện, thiết kế, biểu
+   tượng, logo, tên gọi và tài liệu ("Phần mềm"), thuộc sở hữu của GitTreeViet
+   ("Nhà phát hành") và được bảo hộ bởi luật sở hữu trí tuệ Việt Nam và điều ước quốc tế.
+   Phần mềm được cấp phép sử dụng, không phải được bán.
+
+2. CẤP PHÉP: Bạn được quyền cá nhân, không độc quyền, không chuyển nhượng, có
+   thể bị thu hồi, để tải, cài đặt và sử dụng bản phát hành chính thức của
+   Phần mềm trên thiết bị của bạn.
+
+3. HẠN CHẾ: Nếu không có sự đồng ý bằng văn bản của Nhà phát hành, bạn KHÔNG được:
+   a) sao chép, chỉnh sửa, dịch hoặc tạo sản phẩm phái sinh từ Phần mềm, mã
+      nguồn, giao diện, thiết kế, biểu tượng hay logo;
+   b) dịch ngược, tháo rời hoặc phân tích ngược Phần mềm, trừ khi pháp luật
+      cho phép;
+   c) phân phối lại, bán, cho thuê, cấp phép lại, công bố hoặc đóng gói Phần
+      mềm cùng sản phẩm khác;
+   d) dùng Phần mềm, mã nguồn, thiết kế hay tài nguyên để xây dựng sản phẩm
+      cạnh tranh hoặc tương tự;
+   e) xoá hoặc thay đổi thông báo bản quyền;
+   f) dùng tên "GitTreeViet" hoặc logo cho sản phẩm, dịch vụ khác.
+
+4. KEY BẢN QUYỀN, MUA KEY VÀ HỖ TRỢ:
+   a) Một số tính năng (ví dụ repository riêng tư) cần key bản quyền do Tác
+      giả cấp. Key gắn với email người mua và có hiệu lực đến ngày hết hạn ghi
+      khi cấp key.
+   b) Việc mua chỉ bao gồm key bản quyền và thời hạn sử dụng ghi trên key. Đã
+      mua thì KHÔNG HOÀN TIỀN.
+   c) Key dùng cho cá nhân người mua, không được chia sẻ, bán lại hay công bố.
+   d) Hỗ trợ bao gồm lỗi ứng dụng và lỗi key hợp lệ (ví dụ key không kích hoạt
+      được). Nhà phát hành sẽ sửa lỗi hoặc cấp lại key cho thời hạn còn lại.
+
+5. QUYỀN RIÊNG TƯ: Phần mềm không thu thập hay gửi dữ liệu cá nhân của bạn cho
+   Nhà phát hành (không telemetry, không thống kê, không theo dõi). Xem PRIVACY.md.
+
+6. Các thành phần mã nguồn mở bên thứ ba vẫn tuân theo giấy phép riêng của
+   chúng.
+
+7. Trong phạm vi tối đa pháp luật cho phép, Phần mềm được cung cấp "nguyên
+   trạng" (as is), không kèm bảo đảm, và Nhà phát hành không chịu trách nhiệm về
+   thiệt hại phát sinh từ việc sử dụng Phần mềm. Điều khoản này không làm mất
+   các quyền bắt buộc của người tiêu dùng theo pháp luật.
+
+8. Giấy phép tự chấm dứt khi bạn vi phạm. Thoả thuận này tuân theo pháp luật
+   nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
+Liên hệ: gittreeviet@gmail.com
