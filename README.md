@@ -16,7 +16,7 @@
 ### Cài đặt / Install
 - **macOS**: mở `.dmg`, kéo TreeViet vào *Applications*. Nếu macOS báo "không xác minh được nhà phát triển": chuột phải vào app → **Open** → **Open** (hoặc `xattr -dr com.apple.quarantine /Applications/TreeViet.app`).
 - **Windows**: chạy `setup.exe`. Nếu SmartScreen hiện "Windows protected your PC": **More info** → **Run anyway**. Cần WebView2 (có sẵn trên Windows 10/11 mới).
-- **Linux**: `sudo apt install ./TreeViet-Linux-x64.deb`, hoặc `chmod +x TreeViet-Linux-x64.AppImage && ./TreeViet-Linux-x64.AppImage` (cần FUSE). Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
+- **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
 
 ## ✨ Tính năng / Features
