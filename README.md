@@ -1,29 +1,23 @@
 <p align="center">
-  <img src="screenshots/icon.png" width="96" alt="GitTreeViet">
+  <img src="screenshots/icon.png" width="96" alt="TreeViet">
 </p>
 
-<h1 align="center">GitTreeViet</h1>
-<p align="center">Git client nhẹ và nhanh cho macOS, Windows và Linux<br>A light, fast Git client for macOS, Windows and Linux</p>
-
-<p align="center">
-  <a href="#download"><b>⬇ Tải về / Download</b></a>
-</p>
-
-<a id="download"></a>
+<h1 align="center">TreeViet for Git</h1>
+<p align="center">Ứng dụng cho Git nhẹ và nhanh trên macOS, Windows và Linux<br>A light, fast app for Git on macOS, Windows and Linux</p>
 
 ## ⬇ Tải về / Download
 
 | Hệ điều hành / OS | File cài / Installer |
 |---|---|
-| **macOS** (Apple Silicon + Intel, 11+) | [GitTreeViet-macOS-universal.dmg](../../releases/latest/download/GitTreeViet-macOS-universal.dmg) |
-| **Windows 10/11** x64 | [GitTreeViet-Windows-x64-setup.exe](../../releases/latest/download/GitTreeViet-Windows-x64-setup.exe) · [.msi](../../releases/latest/download/GitTreeViet-Windows-x64.msi) |
-| **Linux** x64 — Ubuntu/Debian | [GitTreeViet-Linux-x64.deb](../../releases/latest/download/GitTreeViet-Linux-x64.deb) |
-| **Linux** x64 — mọi distro / any distro | [GitTreeViet-Linux-x64.AppImage](../../releases/latest/download/GitTreeViet-Linux-x64.AppImage) |
+| **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal.dmg](../../releases/latest/download/TreeViet-macOS-universal.dmg) |
+| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup.exe](../../releases/latest/download/TreeViet-Windows-x64-setup.exe) · [.msi](../../releases/latest/download/TreeViet-Windows-x64.msi) |
+| **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64.deb](../../releases/latest/download/TreeViet-Linux-x64.deb) |
+| **Linux** x64 — mọi distro / any distro | [TreeViet-Linux-x64.AppImage](../../releases/latest/download/TreeViet-Linux-x64.AppImage) |
 
 ### Cài đặt / Install
-- **macOS**: mở `.dmg`, kéo GitTreeViet vào *Applications*. Nếu macOS báo "không xác minh được nhà phát triển": chuột phải vào app → **Open** → **Open** (hoặc `xattr -dr com.apple.quarantine /Applications/GitTreeViet.app`).
+- **macOS**: mở `.dmg`, kéo TreeViet vào *Applications*. Nếu macOS báo "không xác minh được nhà phát triển": chuột phải vào app → **Open** → **Open** (hoặc `xattr -dr com.apple.quarantine /Applications/TreeViet.app`).
 - **Windows**: chạy `setup.exe`. Nếu SmartScreen hiện "Windows protected your PC": **More info** → **Run anyway**. Cần WebView2 (có sẵn trên Windows 10/11 mới).
-- **Linux**: `sudo apt install ./GitTreeViet-Linux-x64.deb`, hoặc `chmod +x GitTreeViet-Linux-x64.AppImage && ./GitTreeViet-Linux-x64.AppImage` (cần FUSE). Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
+- **Linux**: `sudo apt install ./TreeViet-Linux-x64.deb`, hoặc `chmod +x TreeViet-Linux-x64.AppImage && ./TreeViet-Linux-x64.AppImage` (cần FUSE). Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
 
 ## ✨ Tính năng / Features
@@ -62,12 +56,14 @@ A purchase grants a license key and its period of use only. **All sales are fina
 
 ## 🔒 Quyền riêng tư / Privacy
 
-GitTreeViet **không thu thập, không lưu trữ và không gửi dữ liệu của bạn** cho nhà phát hành: không telemetry, không thống kê, không theo dõi. Mọi dữ liệu (hồ sơ, cài đặt, token, key bản quyền) nằm trên máy bạn. Chi tiết: [PRIVACY.md](PRIVACY.md).
+TreeViet **không thu thập, không lưu trữ và không gửi dữ liệu của bạn** cho nhà phát hành: không telemetry, không thống kê, không theo dõi. Mọi dữ liệu (hồ sơ, cài đặt, token, key bản quyền) nằm trên máy bạn. Chi tiết: [PRIVACY.md](PRIVACY.md).
 
-GitTreeViet **does not collect, store or send your data**: no telemetry, analytics or tracking. See [PRIVACY.md](PRIVACY.md).
+TreeViet **does not collect, store or send your data**: no telemetry, analytics or tracking. See [PRIVACY.md](PRIVACY.md).
 
 ## ⚖️ Giấy phép / License
 
-© 2026 GitTreeViet · gittreeviet@gmail.com. Bạn được tải và sử dụng bản phát hành chính thức; không được sao chép, chỉnh sửa, phân phối lại hay dịch ngược. Xem [LICENSE](LICENSE).
+© 2026 TreeViet · gittreeviet@gmail.com. Bạn được tải và sử dụng bản phát hành chính thức; không được sao chép, chỉnh sửa, phân phối lại hay dịch ngược. Xem [LICENSE](LICENSE). Thành phần mã nguồn mở: [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt).
 
 You may download and use the official releases; copying, modifying, redistributing or reverse engineering is not permitted. See [LICENSE](LICENSE).
+
+<sub>Git là nhãn hiệu của Software Freedom Conservancy. TreeViet là sản phẩm độc lập, không liên kết hay được bảo trợ bởi dự án Git.<br>Git is a trademark of Software Freedom Conservancy. TreeViet is an independent product, not affiliated with or endorsed by the Git project.</sub>

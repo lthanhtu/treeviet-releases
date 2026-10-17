@@ -1,8 +1,8 @@
-# Chính sách quyền riêng tư — GitTreeViet
+# Chính sách quyền riêng tư — TreeViet
 
 *Cập nhật: 17/10/2026*
 
-**GitTreeViet không thu thập, không lưu trữ và không gửi dữ liệu của bạn cho Nhà phát hành.** Ứng dụng không có telemetry, không thống kê sử dụng (analytics), không gửi báo cáo lỗi tự động, không quảng cáo và không theo dõi. GitTreeViet không có máy chủ riêng để nhận dữ liệu của bạn.
+**TreeViet không thu thập, không lưu trữ và không gửi dữ liệu của bạn cho Nhà phát hành.** Ứng dụng không có telemetry, không thống kê sử dụng (analytics), không gửi báo cáo lỗi tự động, không quảng cáo và không theo dõi. TreeViet không có máy chủ riêng để nhận dữ liệu của bạn.
 
 ## Dữ liệu nằm trên máy của bạn
 Mọi dữ liệu do ứng dụng tạo ra chỉ được lưu trên máy của bạn và bạn có thể xoá bất kỳ lúc nào:
@@ -29,9 +29,9 @@ gittreeviet@gmail.com
 
 ---
 
-# Privacy Policy — GitTreeViet
+# Privacy Policy — TreeViet
 
-**GitTreeViet does not collect, store or send your data to the Publisher.** There is no telemetry, no usage analytics, no automatic crash reporting, no ads and no tracking. GitTreeViet operates no server that receives your data.
+**TreeViet does not collect, store or send your data to the Publisher.** There is no telemetry, no usage analytics, no automatic crash reporting, no ads and no tracking. TreeViet operates no server that receives your data.
 
 All data the app creates (profiles, settings, recent repositories, workspaces, per-profile SSH config and HTTPS tokens, the license key and activation email, avatar cache) stays on your device. License keys are verified locally.
 

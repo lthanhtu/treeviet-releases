@@ -1,11 +1,11 @@
-GitTreeViet — Proprietary Software License (End-User License Agreement)
+TreeViet — Proprietary Software License (End-User License Agreement)
 
-Copyright (c) 2026 GitTreeViet. All rights reserved.
+Copyright (c) 2026 TreeViet. All rights reserved.
 
 1. OWNERSHIP
-   GitTreeViet, including its source code, object code, user interface, visual
+   TreeViet, including its source code, object code, user interface, visual
    design, icons, logo, name and documentation (the "Software"), is owned by
-   GitTreeViet ("the Publisher") and is protected by copyright and other intellectual
+   TreeViet ("the Publisher") and is protected by copyright and other intellectual
    property laws of Vietnam and international treaties. The Software is
    licensed, not sold.
 
@@ -25,7 +25,7 @@ Copyright (c) 2026 GitTreeViet. All rights reserved.
    d) use the Software, its source code, design or assets to build, train or
       market a competing or substantially similar product;
    e) remove or alter any copyright, trademark or proprietary notices;
-   f) use the name "GitTreeViet" or its logo for any other product or service.
+   f) use the name "TreeViet" or its logo for any other product or service.
 
 4. SOURCE CODE
    Access to the source code (if granted) does not grant any right to use,
@@ -47,42 +47,47 @@ Copyright (c) 2026 GitTreeViet. All rights reserved.
    The Software does not collect or transmit personal data to the Publisher
    (no telemetry, analytics or tracking). See PRIVACY.md.
 
-7. THIRD-PARTY COMPONENTS
+7. TRADEMARKS
+   "Git" is a trademark of Software Freedom Conservancy; TreeViet is not
+   affiliated with or endorsed by the Git project. "TreeViet" and its logo
+   belong to the Publisher.
+
+8. THIRD-PARTY COMPONENTS
    The Software includes open-source components (e.g. Tauri, React, gitoxide,
    CodeMirror, Inter and JetBrains Mono fonts) that remain under their own
    licenses. This Agreement does not restrict your rights under those licenses
    for those components.
 
-8. NO WARRANTY
+9. NO WARRANTY
    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
    "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
    LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
    NON-INFRINGEMENT.
 
-9. LIMITATION OF LIABILITY
+10. LIMITATION OF LIABILITY
    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
    AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOSS OF DATA OR
    REPOSITORY CONTENTS) OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY
    TO USE THE SOFTWARE. Nothing in this Agreement limits rights you have under
    mandatory consumer-protection law.
 
-10. TERMINATION
+11. TERMINATION
    This license terminates automatically if you breach any of its terms. Upon
    termination you must stop using and delete all copies of the Software.
 
-11. GOVERNING LAW
+12. GOVERNING LAW
    This Agreement is governed by the laws of the Socialist Republic of Vietnam.
 
 Contact: gittreeviet@gmail.com
 
 -------------------------------------------------------------------------------
 
-GitTreeViet — Giấy phép phần mềm độc quyền (Thoả thuận người dùng cuối)
+TreeViet — Giấy phép phần mềm độc quyền (Thoả thuận người dùng cuối)
 
-Bản quyền (c) 2026 GitTreeViet. Bảo lưu mọi quyền.
+Bản quyền (c) 2026 TreeViet. Bảo lưu mọi quyền.
 
-1. QUYỀN SỞ HỮU: GitTreeViet, gồm mã nguồn, mã máy, giao diện, thiết kế, biểu
-   tượng, logo, tên gọi và tài liệu ("Phần mềm"), thuộc sở hữu của GitTreeViet
+1. QUYỀN SỞ HỮU: TreeViet, gồm mã nguồn, mã máy, giao diện, thiết kế, biểu
+   tượng, logo, tên gọi và tài liệu ("Phần mềm"), thuộc sở hữu của TreeViet
    ("Nhà phát hành") và được bảo hộ bởi luật sở hữu trí tuệ Việt Nam và điều ước quốc tế.
    Phần mềm được cấp phép sử dụng, không phải được bán.
 
@@ -100,7 +105,7 @@ Bản quyền (c) 2026 GitTreeViet. Bảo lưu mọi quyền.
    d) dùng Phần mềm, mã nguồn, thiết kế hay tài nguyên để xây dựng sản phẩm
       cạnh tranh hoặc tương tự;
    e) xoá hoặc thay đổi thông báo bản quyền;
-   f) dùng tên "GitTreeViet" hoặc logo cho sản phẩm, dịch vụ khác.
+   f) dùng tên "TreeViet" hoặc logo cho sản phẩm, dịch vụ khác.
 
 4. KEY BẢN QUYỀN, MUA KEY VÀ HỖ TRỢ:
    a) Một số tính năng (ví dụ repository riêng tư) cần key bản quyền do Tác
@@ -115,15 +120,19 @@ Bản quyền (c) 2026 GitTreeViet. Bảo lưu mọi quyền.
 5. QUYỀN RIÊNG TƯ: Phần mềm không thu thập hay gửi dữ liệu cá nhân của bạn cho
    Nhà phát hành (không telemetry, không thống kê, không theo dõi). Xem PRIVACY.md.
 
-6. Các thành phần mã nguồn mở bên thứ ba vẫn tuân theo giấy phép riêng của
+6. NHÃN HIỆU: "Git" là nhãn hiệu của Software Freedom Conservancy; TreeViet
+   không liên kết hay được bảo trợ bởi dự án Git. Tên "TreeViet" và logo thuộc
+   về Nhà phát hành.
+
+7. Các thành phần mã nguồn mở bên thứ ba vẫn tuân theo giấy phép riêng của
    chúng.
 
-7. Trong phạm vi tối đa pháp luật cho phép, Phần mềm được cung cấp "nguyên
+8. Trong phạm vi tối đa pháp luật cho phép, Phần mềm được cung cấp "nguyên
    trạng" (as is), không kèm bảo đảm, và Nhà phát hành không chịu trách nhiệm về
    thiệt hại phát sinh từ việc sử dụng Phần mềm. Điều khoản này không làm mất
    các quyền bắt buộc của người tiêu dùng theo pháp luật.
 
-8. Giấy phép tự chấm dứt khi bạn vi phạm. Thoả thuận này tuân theo pháp luật
+9. Giấy phép tự chấm dứt khi bạn vi phạm. Thoả thuận này tuân theo pháp luật
    nước Cộng hoà xã hội chủ nghĩa Việt Nam.
 
 Liên hệ: gittreeviet@gmail.com
