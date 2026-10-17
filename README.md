@@ -10,7 +10,7 @@
 | Hệ điều hành / OS | File cài / Installer |
 |---|---|
 | **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal.dmg](../../releases/latest/download/TreeViet-macOS-universal.dmg) |
-| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup.exe](../../releases/latest/download/TreeViet-Windows-x64-setup.exe) · [.msi](../../releases/latest/download/TreeViet-Windows-x64.msi) |
+| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup.exe](../../releases/latest/download/TreeViet-Windows-x64-setup.exe) |
 | **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64.deb](../../releases/latest/download/TreeViet-Linux-x64.deb) |
 | **Linux** x64 — mọi distro / any distro | [TreeViet-Linux-x64.AppImage](../../releases/latest/download/TreeViet-Linux-x64.AppImage) |
 
