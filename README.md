@@ -12,7 +12,6 @@
 | **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal.dmg](../../releases/latest/download/TreeViet-macOS-universal.dmg) |
 | **Windows 10/11** x64 | [TreeViet-Windows-x64-setup.exe](../../releases/latest/download/TreeViet-Windows-x64-setup.exe) |
 | **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64.deb](../../releases/latest/download/TreeViet-Linux-x64.deb) |
-| **Linux** x64 — mọi distro / any distro | [TreeViet-Linux-x64.AppImage](../../releases/latest/download/TreeViet-Linux-x64.AppImage) |
 
 ### Cài đặt / Install
 - **macOS**: mở `.dmg`, kéo TreeViet vào *Applications*. Nếu macOS báo "không xác minh được nhà phát triển": chuột phải vào app → **Open** → **Open** (hoặc `xattr -dr com.apple.quarantine /Applications/TreeViet.app`).
