@@ -19,6 +19,19 @@
 - **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
 
+## 🎁 Dùng thử Pro / Free Pro trial
+
+Dùng thử đầy đủ tính năng Pro (kể cả repository riêng tư) **đến hết ngày 31/12/2026**. Mở TreeViet → **Cài đặt → Bản quyền**, nhập:
+
+- **Email:** `gittreeviet@gmail.com`
+- **Key:**
+
+```
+GTV1.eyJ2IjoxLCJpZCI6ImFhOTQ0YzNlLTNjYTgtNGM0NS05YjkzLTIxNTcyNGVjNWMzNiIsImVoIjoiWEFtQUh0bWhEM0RNdk9tb2p4eXVlTmhzTlRpQXhMTEtMcUF5ZkNWLV9wayIsInMiOiJndmRWcGVxM09PbW9TNVVHIiwicGxhbiI6InBybyIsImlhdCI6MTc5MjI2MjY5MSwiZXhwIjoxNzk4NzYxNTk5fQ.nnGY5mkLDJNYrdw_8Fg66mdZkfHS4YF2yR9mDMpNYs1wAHFxr_RUd-7ftylxeK1tF57-FiGxiLg3Lhb9WoivCg
+```
+
+Try every Pro feature (including private repositories) **until 31 Dec 2026**: open TreeViet → **Settings → License** and enter the email and key above.
+
 ## ✨ Tính năng / Features
 
 - **Commit graph** nhanh với repo lớn (50.000+ commit): avatar tác giả, nhãn nhánh/tag, solo/ẩn nhánh, tìm commit, hover xem mọi nhánh trên một commit.
