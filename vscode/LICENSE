@@ -1,0 +1,148 @@
+TreeViet — Proprietary Software License (End-User License Agreement)
+
+Copyright (c) 2026 TreeViet. All rights reserved.
+
+1. OWNERSHIP
+   TreeViet, including its source code, object code, user interface, visual
+   design, icons, logo, name and documentation (the "Software"), is owned by
+   TreeViet ("the Publisher") and is protected by copyright and other intellectual
+   property laws of Vietnam and international treaties. The Software is
+   licensed, not sold.
+
+2. LICENSE GRANT
+   Subject to this Agreement, the Publisher grants you a non-exclusive,
+   non-transferable, revocable license to download, install and use the
+   official binary releases of the Software on devices you own or control,
+   for personal or commercial purposes (including work for an employer or
+   clients).
+
+3. RESTRICTIONS
+   Unless the Publisher gives prior written permission, you may NOT:
+   a) copy, modify, translate or create derivative works of the Software, its
+      source code, user interface, visual design, icons or logo;
+   b) decompile, disassemble or reverse engineer the Software, except to the
+      extent applicable law expressly permits it despite this limitation;
+   c) redistribute, sell, rent, lease, sublicense, publish or host the
+      Software, or bundle it with other products;
+   d) use the Software, its source code, design or assets to build, train or
+      market a competing or substantially similar product;
+   e) remove or alter any copyright, trademark or proprietary notices;
+   f) use the name "TreeViet" or its logo for any other product or service.
+
+4. SOURCE CODE
+   Access to the source code (if granted) does not grant any right to use,
+   copy, modify or distribute it. Viewing the source code is permitted only
+   to the extent the Publisher explicitly allows.
+
+5. LICENSE KEYS, PURCHASES AND SUPPORT
+   a) Some features (for example private repositories) require a license key
+      issued by the Publisher. A key is bound to the email address of the
+      person who uses it and is valid until the expiry date stated when it is
+      issued.
+   b) A purchase only grants a license key and the stated period of use. All
+      purchases are final and NON-REFUNDABLE.
+   c) Each key is for one person: it may not be shared, resold or published.
+   d) Support covers application bugs and problems with a valid key (for
+      example a key that cannot be activated). The Publisher will fix or replace a
+      faulty key for the remaining period.
+   e) Individuals and organizations (for example companies) may buy keys. An
+      organization may buy keys for its members; each key is bound to one
+      person's email and may be used by that person only.
+
+6. PRIVACY
+   The Software does not collect or transmit personal data to the Publisher
+   (no telemetry, analytics or tracking). See PRIVACY.md.
+
+7. TRADEMARKS
+   "Git" is a trademark of Software Freedom Conservancy; TreeViet is not
+   affiliated with or endorsed by the Git project. "TreeViet" and its logo
+   belong to the Publisher.
+
+8. THIRD-PARTY COMPONENTS
+   The Software includes open-source components (e.g. Tauri, React, gitoxide,
+   CodeMirror, Inter and JetBrains Mono fonts) that remain under their own
+   licenses. This Agreement does not restrict your rights under those licenses
+   for those components.
+
+9. NO WARRANTY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED
+   "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+   LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NON-INFRINGEMENT.
+
+10. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+   PUBLISHER BE LIABLE FOR ANY CLAIM, DAMAGES (INCLUDING LOSS OF DATA OR
+   REPOSITORY CONTENTS) OR OTHER LIABILITY ARISING FROM THE USE OF OR INABILITY
+   TO USE THE SOFTWARE. Nothing in this Agreement limits rights you have under
+   mandatory consumer-protection law.
+
+11. TERMINATION
+   This license terminates automatically if you breach any of its terms. Upon
+   termination you must stop using and delete all copies of the Software.
+
+12. GOVERNING LAW
+   This Agreement is governed by the laws of the Socialist Republic of Vietnam.
+
+Contact: gittreeviet@gmail.com
+
+-------------------------------------------------------------------------------
+
+TreeViet — Giấy phép phần mềm độc quyền (Thoả thuận người dùng cuối)
+
+Bản quyền (c) 2026 TreeViet. Bảo lưu mọi quyền.
+
+1. QUYỀN SỞ HỮU: TreeViet, gồm mã nguồn, mã máy, giao diện, thiết kế, biểu
+   tượng, logo, tên gọi và tài liệu ("Phần mềm"), thuộc sở hữu của TreeViet
+   ("Nhà phát hành") và được bảo hộ bởi luật sở hữu trí tuệ Việt Nam và điều ước quốc tế.
+   Phần mềm được cấp phép sử dụng, không phải được bán.
+
+2. CẤP PHÉP: Bạn được quyền không độc quyền, không chuyển nhượng, có thể bị
+   thu hồi, để tải, cài đặt và sử dụng bản phát hành chính thức của Phần mềm
+   trên thiết bị của bạn, cho mục đích cá nhân hoặc thương mại (kể cả dùng
+   trong công việc cho công ty hay khách hàng).
+
+3. HẠN CHẾ: Nếu không có sự đồng ý bằng văn bản của Nhà phát hành, bạn KHÔNG được:
+   a) sao chép, chỉnh sửa, dịch hoặc tạo sản phẩm phái sinh từ Phần mềm, mã
+      nguồn, giao diện, thiết kế, biểu tượng hay logo;
+   b) dịch ngược, tháo rời hoặc phân tích ngược Phần mềm, trừ khi pháp luật
+      cho phép;
+   c) phân phối lại, bán, cho thuê, cấp phép lại, công bố hoặc đóng gói Phần
+      mềm cùng sản phẩm khác;
+   d) dùng Phần mềm, mã nguồn, thiết kế hay tài nguyên để xây dựng sản phẩm
+      cạnh tranh hoặc tương tự;
+   e) xoá hoặc thay đổi thông báo bản quyền;
+   f) dùng tên "TreeViet" hoặc logo cho sản phẩm, dịch vụ khác.
+
+4. KEY BẢN QUYỀN, MUA KEY VÀ HỖ TRỢ:
+   a) Một số tính năng (ví dụ repository riêng tư) cần key bản quyền do Nhà
+      phát hành cấp. Key gắn với email của người sử dụng key và có hiệu lực
+      đến ngày hết hạn ghi khi cấp key.
+   b) Việc mua chỉ bao gồm key bản quyền và thời hạn sử dụng ghi trên key. Đã
+      mua thì KHÔNG HOÀN TIỀN.
+   c) Mỗi key dành cho một người, không được chia sẻ, bán lại hay công bố.
+   d) Hỗ trợ bao gồm lỗi ứng dụng và lỗi key hợp lệ (ví dụ key không kích hoạt
+      được). Nhà phát hành sẽ sửa lỗi hoặc cấp lại key cho thời hạn còn lại.
+   e) Cá nhân và tổ chức (ví dụ công ty) đều được mua key. Tổ chức có thể mua
+      key cho thành viên của mình; mỗi key gắn với email của một người và chỉ
+      người đó được sử dụng.
+
+5. QUYỀN RIÊNG TƯ: Phần mềm không thu thập hay gửi dữ liệu cá nhân của bạn cho
+   Nhà phát hành (không telemetry, không thống kê, không theo dõi). Xem PRIVACY.md.
+
+6. NHÃN HIỆU: "Git" là nhãn hiệu của Software Freedom Conservancy; TreeViet
+   không liên kết hay được bảo trợ bởi dự án Git. Tên "TreeViet" và logo thuộc
+   về Nhà phát hành.
+
+7. Các thành phần mã nguồn mở bên thứ ba vẫn tuân theo giấy phép riêng của
+   chúng.
+
+8. Trong phạm vi tối đa pháp luật cho phép, Phần mềm được cung cấp "nguyên
+   trạng" (as is), không kèm bảo đảm, và Nhà phát hành không chịu trách nhiệm về
+   thiệt hại phát sinh từ việc sử dụng Phần mềm. Điều khoản này không làm mất
+   các quyền bắt buộc của người tiêu dùng theo pháp luật.
+
+9. Giấy phép tự chấm dứt khi bạn vi phạm. Thoả thuận này tuân theo pháp luật
+   nước Cộng hoà xã hội chủ nghĩa Việt Nam.
+
+Liên hệ: gittreeviet@gmail.com
