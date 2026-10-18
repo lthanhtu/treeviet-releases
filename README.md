@@ -19,9 +19,27 @@
 - **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
 
+### 🧩 Extension cho VS Code / VS Code extension
+
+TreeViet for Git cũng có trong VS Code: commit graph, diff, merge/rebase, profiles… trong một panel, cùng key bản quyền với app desktop.
+TreeViet for Git is also available inside VS Code — the same graph, diffs, merge/rebase and profiles in one panel, with the same license key as the desktop app.
+
+| Editor | Cài từ / Install from |
+|---|---|
+| **VS Code** | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=treeviet.treeviet) |
+| **Cursor, Windsurf, VSCodium…** | [Open VSX](https://open-vsx.org/extension/treeviet/treeviet) |
+
+**Cách cài / How to install**
+1. Mở **Extensions** (`Cmd+Shift+X` trên macOS, `Ctrl+Shift+X` trên Windows/Linux) / open the **Extensions** view.
+2. Tìm **TreeViet for Git** (nhà phát hành **TreeViet**) → **Install** / search for **TreeViet for Git** (publisher **TreeViet**) → **Install**.
+   Hoặc mở Quick Open (`Cmd+P` / `Ctrl+P`) và dán / or paste into Quick Open: `ext install treeviet.treeviet`
+3. Mở graph / open the graph: bấm **TreeViet** ở thanh trạng thái / click **TreeViet** in the status bar, `Cmd+Alt+G` / `Ctrl+Alt+G`, hoặc / or Command Palette → **TreeViet: Open Git Graph**.
+
+Cần VS Code 1.96+ và **Git** / requires VS Code 1.96+ and **Git**.
+
 ## 🎁 Dùng thử Pro / Free Pro trial
 
-Dùng thử đầy đủ tính năng Pro (kể cả repository riêng tư) **đến hết ngày 31/12/2026**. Mở TreeViet → **Cài đặt → Bản quyền**, nhập:
+Dùng thử đầy đủ tính năng Pro (kể cả repository riêng tư) **đến hết ngày 31/12/2026**. Mở TreeViet → **Cài đặt → Bản quyền** (trong VS Code: Command Palette → **TreeViet: Enter License Key**), nhập:
 
 - **Email:** `gittreeviet@gmail.com`
 - **Key:**
@@ -55,7 +73,7 @@ Try every Pro feature (including private repositories) **until 31 Dec 2026**: op
 ## 🔑 Bản miễn phí & Pro / Free & Pro
 
 - **Miễn phí**: dùng với repository công khai (public) và repository cục bộ.
-- **Pro**: mở thêm repository riêng tư (private). Cần đăng nhập bằng email và **key bản quyền** do TreeViet cấp; key gắn với email và có thời hạn sử dụng.
+- **Pro**: mở thêm repository riêng tư (private). Cần đăng nhập bằng email và **key bản quyền** do TreeViet cấp; key gắn với email và có thời hạn sử dụng. Một key dùng cho cả app desktop và extension VS Code.
 - Được dùng cho cá nhân và cho công việc / mục đích thương mại. Công ty có thể mua key cho nhân viên — mỗi người một key gắn với email của người đó.
 - Mua key / hỗ trợ: **gittreeviet@gmail.com**
 
