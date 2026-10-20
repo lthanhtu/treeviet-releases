@@ -35,8 +35,8 @@ Copyright (c) 2026 TreeViet. All rights reserved.
    to the extent the Publisher explicitly allows.
 
 5. LICENSE KEYS, PURCHASES AND SUPPORT
-   a) Some features (for example private repositories) require a license key
-      issued by the Publisher. A key is bound to the email address of the
+   a) Some advanced features (for example multiple profiles, per-profile SSH
+      and Workspaces) require a license key issued by the Publisher. A key is bound to the email address of the
       person who uses it and is valid until the expiry date stated when it is
       issued.
    b) A purchase only grants a license key and the stated period of use. All
@@ -115,8 +115,8 @@ Bản quyền (c) 2026 TreeViet. Bảo lưu mọi quyền.
    f) dùng tên "TreeViet" hoặc logo cho sản phẩm, dịch vụ khác.
 
 4. KEY BẢN QUYỀN, MUA KEY VÀ HỖ TRỢ:
-   a) Một số tính năng (ví dụ repository riêng tư) cần key bản quyền do Nhà
-      phát hành cấp. Key gắn với email của người sử dụng key và có hiệu lực
+   a) Một số tính năng nâng cao (ví dụ nhiều hồ sơ, SSH theo hồ sơ,
+      Workspaces) cần key bản quyền do Nhà phát hành cấp. Key gắn với email của người sử dụng key và có hiệu lực
       đến ngày hết hạn ghi khi cấp key.
    b) Việc mua chỉ bao gồm key bản quyền và thời hạn sử dụng ghi trên key. Đã
       mua thì KHÔNG HOÀN TIỀN.

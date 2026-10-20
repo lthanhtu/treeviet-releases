@@ -9,14 +9,14 @@
 
 | Hệ điều hành / OS | File cài / Installer |
 |---|---|
-| **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal-v0.3.4.dmg](../../releases/download/v0.3.4/TreeViet-macOS-universal-v0.3.4.dmg) |
-| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup-v0.3.4.exe](../../releases/download/v0.3.4/TreeViet-Windows-x64-setup-v0.3.4.exe) |
-| **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64-v0.3.4.deb](../../releases/download/v0.3.4/TreeViet-Linux-x64-v0.3.4.deb) |
+| **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal-v0.3.6.dmg](../../releases/download/v0.3.6/TreeViet-macOS-universal-v0.3.6.dmg) |
+| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup-v0.3.6.exe](../../releases/download/v0.3.6/TreeViet-Windows-x64-setup-v0.3.6.exe) |
+| **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64-v0.3.6.deb](../../releases/download/v0.3.6/TreeViet-Linux-x64-v0.3.6.deb) |
 
 ### Cài đặt / Install
 - **macOS**: mở `.dmg`, kéo TreeViet vào *Applications* rồi mở app. Lần đầu macOS báo "Apple không thể xác minh TreeViet…" (do app chưa đăng ký với Apple, không phải mã độc): bấm **Done**, vào **System Settings → Privacy & Security**, kéo xuống bấm **Open Anyway** → **Open** (chỉ cần một lần; macOS 14 trở về trước: chuột phải vào app → **Open**). Hoặc chạy `xattr -dr com.apple.quarantine /Applications/TreeViet.app`.
 - **Windows**: chạy `setup.exe`. Nếu SmartScreen hiện "Windows protected your PC": **More info** → **Run anyway**. Cần WebView2 (có sẵn trên Windows 10/11 mới).
-- **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64-v0.3.4.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
+- **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64-v0.3.6.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
 
 ### 🧩 Extension cho VS Code / VS Code extension
@@ -39,7 +39,7 @@ Cần VS Code 1.96+ và **Git** / requires VS Code 1.96+ and **Git**.
 
 ## 🎁 Dùng thử Pro / Free Pro trial
 
-Dùng thử đầy đủ tính năng Pro (kể cả repository riêng tư) **đến hết ngày 31/12/2026**. Mở TreeViet → **Cài đặt → Bản quyền** (trong VS Code: Command Palette → **TreeViet: Enter License Key**), nhập:
+Dùng thử đầy đủ tính năng Pro (pull request & issue, nhiều hồ sơ, nhiều tài khoản, SSH theo hồ sơ, Workspaces) **đến hết ngày 31/12/2026**. Mở TreeViet → **Cài đặt → Bản quyền** (trong VS Code: Command Palette → **TreeViet: Enter License Key**), nhập:
 
 - **Email:** `gittreeviet@gmail.com`
 - **Key:**
@@ -48,13 +48,14 @@ Dùng thử đầy đủ tính năng Pro (kể cả repository riêng tư) **đ�
 GTV1.eyJ2IjoxLCJpZCI6ImFhOTQ0YzNlLTNjYTgtNGM0NS05YjkzLTIxNTcyNGVjNWMzNiIsImVoIjoiWEFtQUh0bWhEM0RNdk9tb2p4eXVlTmhzTlRpQXhMTEtMcUF5ZkNWLV9wayIsInMiOiJndmRWcGVxM09PbW9TNVVHIiwicGxhbiI6InBybyIsImlhdCI6MTc5MjI2MjY5MSwiZXhwIjoxNzk4NzYxNTk5fQ.nnGY5mkLDJNYrdw_8Fg66mdZkfHS4YF2yR9mDMpNYs1wAHFxr_RUd-7ftylxeK1tF57-FiGxiLg3Lhb9WoivCg
 ```
 
-Try every Pro feature (including private repositories) **until 31 Dec 2026**: open TreeViet → **Settings → License** and enter the email and key above.
+Try every Pro feature (pull requests & issues, multiple profiles, more accounts, per-profile SSH, Workspaces) **until 31 Dec 2026**: open TreeViet → **Settings → License** and enter the email and key above.
 
 ## ✨ Tính năng / Features
 
 - **Commit graph** nhanh với repo lớn (50.000+ commit): avatar tác giả, nhãn nhánh/tag, solo/ẩn nhánh, tìm commit, hover xem mọi nhánh trên một commit.
 - **Diff** hai cột / một cột, tô màu từng chữ, bỏ qua khoảng trắng, diff ảnh, blame, lịch sử file, so sánh commit/nhánh.
 - **Working tree**: stage/unstage từng file, từng hunk, từng dòng; commit, amend, sửa message commit cuối; stash.
+- **Commit message bằng AI** (miễn phí): nút ✨ viết commit message từ các thay đổi đã stage bằng AI bạn đang dùng — Claude Code, Codex, Gemini CLI đã cài trên máy (không cần token) hoặc API key của bạn.
 - **Nhánh & remote**: checkout, tạo/đổi tên/xoá nhánh & tag, fetch/pull/push, quản lý remote, undo/redo, submodule, worktree.
 - **Merge / Rebase**: kéo thả nhánh, giải quyết conflict 3 cột, interactive rebase, cherry-pick, revert, reset.
 - **Profiles**: mỗi hồ sơ có danh tính Git, ký commit (GPG/SSH), SSH key & SSH config, tài khoản HTTPS (GitHub/GitLab/Bitbucket/Gitea) riêng — chuyển đổi tức thì.
@@ -72,8 +73,8 @@ Try every Pro feature (including private repositories) **until 31 Dec 2026**: op
 
 ## 🔑 Bản miễn phí & Pro / Free & Pro
 
-- **Miễn phí**: dùng với repository công khai (public) và repository cục bộ.
-- **Pro**: mở thêm repository riêng tư (private). Cần đăng nhập bằng email và **key bản quyền** do TreeViet cấp; key gắn với email và có thời hạn sử dụng. Một key dùng cho cả app desktop và extension VS Code.
+- **Miễn phí**: mọi tính năng Git — commit graph, diff, stage, commit, nhánh, merge/rebase, xử lý xung đột, worktree, Agents… — với **mọi repository, kể cả repository riêng tư (private)**. Một hồ sơ với một tài khoản HTTPS (ví dụ GitHub).
+- **Pro**: thêm **pull request & issue** (GitHub, GitLab, Bitbucket, Gitea, Azure DevOps: xem, tạo, checkout nhánh PR), **nhiều hồ sơ** (tạo và chuyển qua lại), **nhiều tài khoản trong một hồ sơ** (GitHub, GitLab công ty, Bitbucket…), **SSH riêng theo hồ sơ** (khoá SSH, cấu hình SSH), **ký commit** (GPG / SSH), **Workspaces** (gom và mở nhiều repository). Cần email và **key bản quyền** do TreeViet cấp; key gắn với email và có thời hạn sử dụng. Một key dùng cho cả app desktop và extension VS Code.
 - Được dùng cho cá nhân và cho công việc / mục đích thương mại. Công ty có thể mua key cho nhân viên — mỗi người một key gắn với email của người đó.
 - Mua key / hỗ trợ: **gittreeviet@gmail.com**
 
@@ -83,7 +84,7 @@ Try every Pro feature (including private repositories) **until 31 Dec 2026**: op
 - Mỗi key dành cho một người, không chia sẻ hay bán lại.
 - **Hỗ trợ**: lỗi ứng dụng và lỗi key (ví dụ không kích hoạt được) — TreeViet sẽ sửa lỗi hoặc cấp lại key cho thời hạn còn lại.
 
-Personal and commercial use are both allowed; companies may buy keys for their staff (one key per person, bound to that person's email). A purchase grants a license key and its period of use only. **All sales are final — no refunds**. Support covers app bugs and faulty keys.
+**Free** includes every Git feature for every repository, private ones included, with one profile and one HTTPS account. **Pro** adds pull requests & issues (GitHub, GitLab, Bitbucket, Gitea, Azure DevOps), multiple profiles, more accounts per profile, per-profile SSH (key and config), commit signing (GPG / SSH) and Workspaces. Personal and commercial use are both allowed; companies may buy keys for their staff (one key per person, bound to that person's email). A purchase grants a license key and its period of use only. **All sales are final — no refunds**. Support covers app bugs and faulty keys.
 
 ## 🔒 Quyền riêng tư / Privacy
 
