@@ -9,14 +9,14 @@
 
 | Hệ điều hành / OS | File cài / Installer |
 |---|---|
-| **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal-v0.3.9.dmg](../../releases/download/v0.3.9/TreeViet-macOS-universal-v0.3.9.dmg) |
-| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup-v0.3.9.exe](../../releases/download/v0.3.9/TreeViet-Windows-x64-setup-v0.3.9.exe) |
-| **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64-v0.3.9.deb](../../releases/download/v0.3.9/TreeViet-Linux-x64-v0.3.9.deb) |
+| **macOS** (Apple Silicon + Intel, 11+) | [TreeViet-macOS-universal-v0.3.10.dmg](../../releases/download/v0.3.10/TreeViet-macOS-universal-v0.3.10.dmg) |
+| **Windows 10/11** x64 | [TreeViet-Windows-x64-setup-v0.3.10.exe](../../releases/download/v0.3.10/TreeViet-Windows-x64-setup-v0.3.10.exe) |
+| **Linux** x64 — Ubuntu/Debian | [TreeViet-Linux-x64-v0.3.10.deb](../../releases/download/v0.3.10/TreeViet-Linux-x64-v0.3.10.deb) |
 
 ### Cài đặt / Install
 - **macOS**: mở `.dmg`, kéo TreeViet vào *Applications* rồi mở app. Lần đầu macOS báo "Apple không thể xác minh TreeViet…" (do app chưa đăng ký với Apple, không phải mã độc): bấm **Done**, vào **System Settings → Privacy & Security**, kéo xuống bấm **Open Anyway** → **Open** (chỉ cần một lần; macOS 14 trở về trước: chuột phải vào app → **Open**). Hoặc chạy `xattr -dr com.apple.quarantine /Applications/TreeViet.app`.
 - **Windows**: chạy `setup.exe`. Nếu SmartScreen hiện "Windows protected your PC": **More info** → **Run anyway**. Cần WebView2 (có sẵn trên Windows 10/11 mới).
-- **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64-v0.3.9.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
+- **Linux** (Ubuntu/Debian): `sudo apt install ./TreeViet-Linux-x64-v0.3.10.deb`. Nếu cửa sổ trắng trên máy NVIDIA: `WEBKIT_DISABLE_DMABUF_RENDERER=1`.
 - Cần cài **Git** trên máy / requires **Git** installed.
 
 ### 🧩 Extension cho VS Code / VS Code extension
